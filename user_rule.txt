@@ -43,3 +43,4 @@ cdn.whatsapp.net
 bbc.com
 tumblr.com
 medium.com
+google.ca

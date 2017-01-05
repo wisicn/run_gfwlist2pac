@@ -3183,6 +3183,7 @@ var domains = {
   "synergyse.com": 1, 
   "twifan.com": 1, 
   "globaljihad.net": 1, 
+  "google.ca": 1, 
   "tweetphoto.com": 1, 
   "law.com": 1, 
   "chinatopsex.com": 1, 

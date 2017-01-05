@@ -7,4 +7,4 @@ gfwlist2pac -i ./gfwlist.txt -f ./wpad.dat -p 'PROXY 10.10.88.1:8118; DIRECT;' -
 #./gfwlist2dnsmasq.sh
 #workaround to replace amazon.com to bbc.co.uk
 sed -i 's/amazon.com/bbc.co.uk/g' ./proxy.pac ./proxy-socks.pac ./wpad.dat ./dnsmasq_list.conf
-sed -i 's/fake-replace-twimg-edgesuite.com/twimg.edgesuite.net/g' ./proxy.pac ./proxy-socks.pac ./wpad.dat ./dnsmasq_list.conf
+sed -i 's/amazonaws.com/twimg.edgesuite.net/g' ./proxy.pac ./proxy-socks.pac ./wpad.dat ./dnsmasq_list.conf
